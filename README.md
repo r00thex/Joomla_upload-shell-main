@@ -8,8 +8,7 @@
 ---
 
 > **⚠️ IMPORTANT DISCLAIMER:** This tool is shared for **EDUCATIONAL PURCES ONLY** and **SECURITY RESEARCH**. Always obtain proper authorization before testing any system. Use responsibly!
-
-![Christmas Security](https://via.placeholder.com/800x300/1a1a2a/00ffff?text=🎄+Secure+Your+Joomla+This+Holiday+Season+🎄)
+> 
 ## ✨ **Features**
 
 🎯 **Advanced Joomla Scanner**
