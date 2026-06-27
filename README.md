@@ -1,4 +1,4 @@
-# 🎄 **Joomla Security Scanner - Christmas Edition** 🎅
+# 🎄 **Joomla_upload-shell-main** 😋
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![PyQt5](https://img.shields.io/badge/PyQt5-GUI-orange.svg)](https://pypi.org/project/PyQt5/)
@@ -6,8 +6,6 @@
 [![Security Tool](https://img.shields.io/badge/🔐-Security%20Tool-red.svg)](https://github.com/yourusername)
 [![Christmas Release](https://img.shields.io/badge/🎁-Christmas%20Release-ff69b4.svg)]https://github.com/r00thex/)
 ---
-
-## 🎁 **My Christmas Gift to the Security Community!** 🎁
 
 > **⚠️ IMPORTANT DISCLAIMER:** This tool is shared for **EDUCATIONAL PURCES ONLY** and **SECURITY RESEARCH**. Always obtain proper authorization before testing any system. Use responsibly!
 
@@ -33,12 +31,14 @@
 
 ```bash
 # Clone the repository
-git clone (https://github.com/HackfutSec/J_UPLOAD-SHELL/tree/main)
+git clone (https://github.com/)
+
+cd Joomla_upload-shell-main
 # Install dependencies
 pip install -r requirements.txt
 
 # Run with love ❤️
-python joomlaUpl_gui.py
+python Joomla_upload.py
 ```
 
 ## 📁 **Project Structure**
@@ -47,9 +47,9 @@ python joomlaUpl_gui.py
 📦 J_UPLOAD-SHELL
 ├── 📂 plugins          # Modular upload plugins
 ├── 📂 docs            # Documentation
-├── 📂 joomlaUpl_gui.py #Tool
+├── 📂 joomlaUpl.py  #Tool
 ├── 📜 requirements.txt # Dependencies
-└── 📜 README.md       # You're here! 🎅
+└── 📜 README.md       # You're here!
 ```
 
 ## 🔧 **Requirements**
