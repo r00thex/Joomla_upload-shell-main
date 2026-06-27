@@ -60,13 +60,6 @@ PyQt5>=5.15.0
 pyqtgraph>=0.13.0
 Pillow>=9.0.0
 ```
-
-## 📸 **Screenshots**
-
-| ![Login Screen](https://via.placeholder.com/400x250/1a1a2a/00ffff?text=Cyberpunk+Login) | ![Results](https://via.placeholder.com/400x250/1a1a2a/ff00ff?text=Scan+Results) |
-|:---:|:---:|
-| *Cyberpunk Interface* | *Real-time Results* |
-
 ## ⚠️ **Legal & Ethical Use**
 
 > **🎄 Christmas Spirit Means Responsible Security!** 🎄
