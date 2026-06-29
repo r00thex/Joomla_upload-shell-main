@@ -30,7 +30,7 @@
 
 ```bash
 # Clone the repository
-git clone (https://github.com/)
+git clone https://github.com/r00thex/Joomla_upload-shell-main.git
 
 cd Joomla_upload-shell-main
 # Install dependencies
